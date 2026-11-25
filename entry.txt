@@ -1,0 +1,1 @@
+I shipped the bug because the compiler approved it, the tests waved it through, and the deadline was holding the door open.
